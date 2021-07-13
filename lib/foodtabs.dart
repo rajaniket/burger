@@ -21,6 +21,8 @@ class _FoodTabState extends State<FoodTab> {
           _buildListItem('Cheese Pizza', 5.0, '12', 'assets/pizza.png'),
           _buildListItem('Delicious hot dog', 4.0, '6', 'assets/hotdog.png'),
           _buildListItem('Cheese Pizza', 5.0, '12', 'assets/pizza.png'),
+          _buildListItem('Cheese Pizza', 5.0, '12', 'assets/pizza.png'),
+          _buildListItem('Delicious hot dog', 4.0, '6', 'assets/hotdog.png'),
         ],
       ),
     );
